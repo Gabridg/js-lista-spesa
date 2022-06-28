@@ -26,7 +26,7 @@ const shopList = document.getElementById('lista-spesa');
 
 
 
-// for (let i = 0; i < listItem.lenght; i++) {
+// for (let i = 0; i < listItem.length; i++) {
 //     item += `<li> ${listItem[i]}</li>`;
 
 // }
